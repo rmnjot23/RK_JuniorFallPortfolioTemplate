@@ -62,7 +62,7 @@ body {
    CARDS
 ========================= */
 .resource-card {
-  background-color: rgba(28, 31, 47, 0.95);
+  background-color: #FBE580;
   margin: 2em auto;
   padding: 1.5em;
   border-radius: 12px;
