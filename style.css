@@ -11,10 +11,8 @@
   height:auto;
   margin: 0;
   font-family: 'Montserrat', Arial, sans-serif;
-  background-color: #FFFDE1;
-  color: #f0f0f0;
   background-image: url("frutiger.png");
-  background-size: contain;
+  background-size: cover;
   background-repeat: repeat-y;
   background-attachment: fixed;
 
