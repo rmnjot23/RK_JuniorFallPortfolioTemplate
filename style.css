@@ -11,7 +11,7 @@
   height:auto; 
   margin: 0;
   font-family: 'Montserrat', Arial, sans-serif;
-  background-image: url("flower.jpg");
+  background-image: url("frutiger2.png");
   background-size: cover;
   background-repeat: repeat-y;
   background-attachment: fixed;
@@ -72,7 +72,7 @@
 .resource-card {
   color: #222748;
   font-family: Georgia, Garamond ;
-  background-image: url("frutiger2.png");
+  background-image: url("flower.jpg");
   background-size: cover;
   background-repeat: repeat-y;
   background-attachment: fixed;
