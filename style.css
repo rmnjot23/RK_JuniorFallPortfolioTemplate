@@ -37,7 +37,8 @@
   display: flex;
   justify-content: space-around;
   gap: 2em;
-  margin: 20em;
+  margin-right: 20em;
+  argin-left: 20em;
   padding: 0;
 }
 
