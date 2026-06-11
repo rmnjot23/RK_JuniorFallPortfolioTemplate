@@ -22,16 +22,14 @@
    NAVBAR
 ========================= */
 .navbar {
-  background-color: #1b1d3a;
+  background-color: #90AB8B;
   padding: 1em 2em;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
-.navbar-left img {
-  height: 35px;
-}
+
 
 .navbar-right {
   list-style: none;
