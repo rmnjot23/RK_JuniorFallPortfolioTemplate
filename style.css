@@ -30,7 +30,7 @@
   color:white;
 }
 
-.navbar-right {
+.navbar {
   list-style: none;
   display: flex;
   justify-content: space-around;
@@ -39,13 +39,13 @@
   padding: 0;
 }
 
-.navbar-right a {
+.navbar a {
   color: white;
   text-decoration: none;
   font-weight: bold;
 }
 
-.navbar-right a:hover {
+.navbar a:hover {
   color: #ffaaff;
 }
 
