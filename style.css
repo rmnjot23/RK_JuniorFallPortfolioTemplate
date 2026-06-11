@@ -37,12 +37,13 @@
   display: flex;
   justify-content: space-around;
   gap: 2em;
-  margin-right: 20em;
-  argin-left: 20em;
+  
   padding: 0;
 }
 
 .navbar a {
+ margin-right: 20em;
+  margin-left: 20em; 
   color: white;
   text-decoration: none;
   font-weight: bold;
