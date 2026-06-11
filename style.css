@@ -33,7 +33,7 @@
 .navbar-right {
   list-style: none;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   gap: 2em;
   margin: 0;
   padding: 0;
