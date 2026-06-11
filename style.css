@@ -131,7 +131,7 @@
 .project img {
   flex: 2;
   min-width: 320px;
-  min-height: 400px;
+  min-height: 200px;
   border: none;
   background-color: white;
   border-radius: 8px;
