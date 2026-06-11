@@ -77,7 +77,7 @@
    BIO SECTION
 ========================= */
 .bio { 
-  color: white;
+  color: #303D5A;
   display: flex;
   flex-direction: column;
   align-items: center;
