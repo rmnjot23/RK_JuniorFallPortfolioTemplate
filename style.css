@@ -86,7 +86,7 @@
    BIO SECTION
 ========================= */
 .bio { 
-  color:white ;
+  color:#222748 ;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -115,7 +115,7 @@
 .bio-text h4 {
   margin-top: 0;
   font-weight: normal;
-  color:white;
+  color:#222748;
 }
 
 /* =========================
