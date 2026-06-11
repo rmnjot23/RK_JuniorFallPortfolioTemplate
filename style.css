@@ -70,7 +70,7 @@
    CARDS
 ========================= */
 .resource-card {
-  color: white;
+  color: #222748;
   font-family: Georgia, Garamond ;
   background-image: url("flower.jpg");
   background-size: cover;
