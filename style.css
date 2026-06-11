@@ -95,6 +95,8 @@
 .pic-name{
   display: flex;
   flex-direction: row;
+  width: 450px;
+  height: 150px;
 
 }
 .bio-text h4 {
